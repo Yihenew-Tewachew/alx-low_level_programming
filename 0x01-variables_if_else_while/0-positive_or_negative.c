@@ -4,9 +4,10 @@
 /**
  * main - determines if number is positive negative or zero
  *
- * return: 0 on sucess
+ * return: 0 (on sucess)
  */
 int main(void)
+	/*returns : 0 on success */
 {
 	int n;
 
