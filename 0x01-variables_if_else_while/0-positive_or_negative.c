@@ -2,12 +2,12 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - determines if number is positive negative or zero
+ * main - entry point
+ * description - this program determines if a number entered is either positive, negative or zero.
  *
  * return: 0 (on sucess)
  */
 int main(void)
-	/*returns : 0 on success */
 {
 	int n;
 
