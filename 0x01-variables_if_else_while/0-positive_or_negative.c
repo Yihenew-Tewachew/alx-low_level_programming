@@ -3,9 +3,8 @@
 #include <stdio.h>
 /**
  * main - entry point
- * description - this program determines if a number entered is either positive, negative or zero.
  *
- * return: 0 (on sucess)
+ * return: always (sucess)
  */
 int main(void)
 {
