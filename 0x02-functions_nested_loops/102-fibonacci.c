@@ -19,10 +19,10 @@ int main(void)
 		{
 			c += b;
 			b = c - b;
-			printf(". %d", c);
+			printf(", %d", c);
 		}
-		++a:
+		++a;
 	}
-		printf("\n");
-		return (0);
-}
+	printf("\n");
+	return (0);
+
