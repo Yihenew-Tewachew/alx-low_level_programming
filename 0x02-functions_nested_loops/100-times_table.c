@@ -15,14 +15,14 @@ void print_times_table(int n)
 			_putchar('0');
 			for (y = 1; y <= n; y++)
 			{
-				_putchar(' ');
 				_putchar(',');
+				_putchar(' ');
 				z = x * y;
 				if (z <= 99)
 					_putchar(' ');
 				if (z <= 9)
 					_putchar(' ');
-				if (z <= 100)
+				if (z >= 100)
 				{
 					_putchar((z / 100) + '0');
 					_putchar(((z / 10)) % 10 + '0');
