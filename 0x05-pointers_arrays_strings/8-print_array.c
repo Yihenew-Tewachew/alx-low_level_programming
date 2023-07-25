@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * rint_array - prints arrays
+ * print_array - prints arrays
  * @a: it is an array
  * @n: number of element
  * Return:0
