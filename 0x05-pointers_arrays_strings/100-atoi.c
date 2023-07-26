@@ -4,7 +4,7 @@
  * @s: pointer to be converted
  * Return:integer numbers
  */
-int _atoi(char *s) 
+int _atoi(char *s)
 {
 	int i = 0;
 	unsigned int j = 0;
